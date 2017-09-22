@@ -1,6 +1,6 @@
 # Pi-Hole
 
-This hosts file is specifically designed to block norwegian ads with Pi-Hole https://pi-hole.net/
+This hosts file is specifically designed to block Norwegian ads with Pi-Hole https://pi-hole.net/
 
 1. To append, go to your local Pi-Hole WebUI at http://x.x.x.x/admin/settings.php (replace x.x.x.x with your Pi-Hole IP address)
 2. Expand the 'Pi-Hole's Block Lists' box by clicking the + icon
