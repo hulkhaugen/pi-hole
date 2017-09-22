@@ -7,5 +7,5 @@
 3. Paste `https://raw.githubusercontent.com/hulkhaugen/pi-hole/master/hosts` into the text box and click *Save and Update*
 
 ### Flush DNS (Windows)
-To speed things up, click the `Win' key on your keyboard, type in `cmd` and press *Enter*     
+To speed things up, click the *Win* key on your keyboard, type in `cmd` and press *Enter*     
 Execute the following command: `ipconfig /flushdns` and press *Enter*
