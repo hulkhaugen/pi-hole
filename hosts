@@ -1,0 +1,10 @@
+### https://github.com/hulkhaugen/pi-hole/hosts
+### Ads on popular norwegian websites
+
+0.0.0.0 advert.crontab.no
+0.0.0.0 advertisement.forelsket.no
+0.0.0.0 advertisement.let.no
+0.0.0.0 advertisement.vg.no
+0.0.0.0 annonser.file.no
+0.0.0.0 annonser.hwn.no
+0.0.0.0 sixscissors.com
