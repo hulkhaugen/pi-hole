@@ -1,7 +1,6 @@
 ### https://github.com/hulkhaugen/pi-hole/hosts
 ### Ads on popular norwegian websites
 
-127.0.0.1 1.vgc.no
 127.0.0.1 advert.crontab.no
 127.0.0.1 advertisement.forelsket.no
 127.0.0.1 advertisement.let.no
