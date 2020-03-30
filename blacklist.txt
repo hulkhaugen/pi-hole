@@ -1,7 +1,0 @@
-cdn.ap.bittorrent.com
-cdn.bitmedianetwork.com
-config.edge.skype.com
-euw.adserver.snapads.com
-fm.nvc.enus.nuancemobility.net
-fx.nvc.enus.nuancemobility.net
-lgtvonline.lge.com
